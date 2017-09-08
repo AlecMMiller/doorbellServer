@@ -3,3 +3,5 @@ NOTE: In order to function, a file called mailer.py must be created. It must con
 sendMail(recipient, msg)
 
 where recipient is the email address being sent to, and msg is the payload of the email. The exact implementation of this function will depend on the email service you choose to use.
+
+See the README at https://github.com/AlecMMiller/doorbellEmbedded for a description of the project.
